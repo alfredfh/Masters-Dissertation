@@ -2,17 +2,15 @@
 A Comparative Analysis of Machine Learning Algorithms for Dementia Prediction
 
 
+## Abstract
 
-## Objective
-The objective of the assignment is to develop a simplified version of the classic Battleships game. In this game, the computer randomly places five ships of different sizes and point values on a 10x10 grid. The player selects grid squares to fire at, trying to hit and sink the ships. Points are awarded for hitting ships, and the game ends either after 10 shots or when all ships are sunk. The player is notified of hits and misses, and their score is displayed at the end. Additionally, a debug mode allows the player to see the ship locations during gameplay.
+Dementia, a progressively debilitating neurological disorder, presents a significant global health challenge, particularly in an aging population. The integration of advanced technological solutions, particularly Machine Learning (ML) algorithms, has gained traction to enhance accurate early detection. This paper explores the comparative efficiency of four prominent ML algorithms - Support Vector Machine (SVM), Decision Tree, Logistic Regression, and XGBoost - for predicting dementia using a comprehensive dataset. The study reveals the pivotal role of features like ’CDR’ in accurate predictions across algorithms. Hyperparameter tuning’s impact on model performance is examined, showcasing XGBoost’s reliability and Decision Tree’s sensitivity. The significance of variability in accuracy scores and standard deviations is highlighted for comprehensive model assessment. Further, a detailed analysis of a Decision Tree’s structure offers insights into its decision-making process. The research emphasizes that model selection
+extends beyond mere accuracy, necessitating a thorough understanding of feature importance and algorithm behavior. Ultimately, the study underscores the potential of machine learning in dementia prediction, showcasing the intricate interplay between algorithms, features, and tuning for robust and informed predictions.
 
 ### Skills Learned
 
--  Developed Battleships game in Java, focusing on OOP principles.
--  Creating simple graphical dialog and menu to develop the interface and basic event handling.
--  Utilising variables, constructors and getter/setter to manage the ships and users demonstrating principle of encapsulation.
--  Use of loops, arrays, collections, and associations to implement the game logic as defined above.
+-  Machine learning concepts and algorithms
+-  Data processing and hyperprameter tuning
+-  Python coding and various libraries (Pandas, Numpy, Scikit-learn)
+-  Critical analysis and problem solving
 
-### Tools Used
-
-- The use of Eclipse IDE for JAVA developers
